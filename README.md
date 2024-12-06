@@ -11,7 +11,8 @@ This project aims to detect and classify kidney diseases (Cyst, Normal, Stone, T
   3. Stone  
   4. Tumor  
 - **Structure**:  
-  The dataset is organized into subdirectories for each class. Each subdirectory contains CT scan images corresponding to its label.  
+  The dataset is organized into subdirectories for each class. Each subdirectory contains CT scan images corresponding to its label.
+  
 ![Screenshot 2024-12-06 102055](https://github.com/user-attachments/assets/3430ff13-7e3e-4cab-9d6a-599811915a35)
 
 ## **Requirements**  
@@ -104,6 +105,8 @@ project_root/
 | Tuned CNN   | 91%      | 0.90     |  
 
 Or Run the app.py to use the streamlit application:
+
+
 ![Screenshot 2024-12-06 101933](https://github.com/user-attachments/assets/361b795e-4433-4ebf-9ed7-b3e33c012685)
 
 ## **Future Work**  
